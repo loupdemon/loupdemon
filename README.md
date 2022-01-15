@@ -13,11 +13,11 @@
 
 #### Languages and tools I work with:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" alt="html5" width="26px" align="left"/></span>
+<span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></span>&nbsp;
+<span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></span>&nbsp;
+<span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></span>&nbsp;
+<span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></span>&nbsp;
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" alt="html5" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" alt="css3" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="javascript" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" alt="reactjs" width="26px" align="left"/></span>&nbsp;
@@ -43,17 +43,11 @@
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/640px-Adobe_After_Effects_CC_icon.svg.png" alt="clion" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/800px-Calligrakrita-base.svg.png" alt="labview" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://store-images.s-microsoft.com/image/apps.38628.13510798886191833.179af66d-2013-4488-a243-7deb99eadb6d.652b8c3b-7b3a-4b06-8ef7-213369d090f9" alt="arduino" width="26px" align="left"/></span>&nbsp;
-
 <span><img src="https://biolibre.fr/images/articles/visual_studio_code.jpeg" alt="arduino" width="26px" align="left"/></span>
-
 <span><img src="https://luna1.co/802f24.jpg" alt="arduino" width="26px" align="left"/></span>
-
 <span><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1D84XwrcnG36C3zFi3PqdMsVB7mwzaRfhjuQWRVvEWLcN11ErHb2heuCseOh-iKjmh4w&usqp=CAU" alt="arduino" width="26px" align="left"/></span>
-
 <span><img src="https://fr.seaicons.com/wp-content/uploads/2017/02/tablette-icon.png" alt="raspberrypi" width="26px" align="left"/></span>&nbsp;
-
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="26px" align="left"/></span>
-
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-plain.svg" alt="docker" width="26px" align="left"/></span>&nbsp;
 
 ### My hobbies 
