@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Aghiles (ponounced Harryless)! :blush:
 
-### I love traveling by bike, while listening to my piano compositions and passionately coding ..I consider myself open to new challenges 
+### I love traveling by bike with listening a piano and coding with inspiration ...I'm open to new challenges 
 
 - About me
   - 🌱 I’m currently learning everything 🤣
