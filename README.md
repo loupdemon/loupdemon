@@ -63,4 +63,3 @@
 
 <span><img src="https://i.ebayimg.com/images/g/gbkAAOSw0J5gHpgK/s-l300.png" alt="intellij" width="26px" align="left"/></span>
 
-<span><img src="https://i.ebayimg.com/images/g/gbkAAOSw0J5gHpgK/s-l300.png" alt="intellij" width="26px" align="left"/></span>
