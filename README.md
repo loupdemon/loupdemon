@@ -22,7 +22,6 @@
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="javascript" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="nodejs" width="26px" align="left"/></span>&nbsp;
 <img src="https://static.wikia.nocookie.net/epita/images/c/c6/OCamL.jpg/revision/latest/top-crop/width/360/height/450?cb=20201116165102&path-prefix=fr" alt="tailwindcss" width="26px" align="left"/>&nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" alt="python" width="26px" align="left"/></span>&nbsp;&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" alt="c" width="26px" align="left"/></span>&nbsp;
