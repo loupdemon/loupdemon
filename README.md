@@ -34,7 +34,7 @@
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg" alt="java" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/matlab/matlab-original.svg" alt="matlab" width="26px" align="left"/></span>&nbsp;
 
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" alt="typescript" width="26px" align="left"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" alt="typescript" width="26px" align="left"/></span>&nbsp;
 
 ### My tools
 
