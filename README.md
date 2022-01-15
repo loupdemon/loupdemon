@@ -52,6 +52,5 @@
 
 <a href="https://www.elmesmar.fr/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdhVKfy4Yzq0T-EmMWF26uQFLsrmX4MhKhm7l-dh_TO-r1Qo_ubPI0VzRdWnXrCL7OvQ&usqp=CAU" alt="linkedin" width="26px" align="left"/> </a>&nbsp;
 <span><img src="https://i.ebayimg.com/images/g/gbkAAOSw0J5gHpgK/s-l300.png" alt="intellij" width="26px" align="left"/></span>
-![loupdemon's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
 
 
