@@ -3,7 +3,9 @@
 ### I love traveling by bike, while listening to my piano compositions and passionately coding ..I consider myself open to new challenges 
 
 - About me
-  - 📱 I’m currently learning new technology
+  - 🌱 I’m currently learning everything 🤣
+  - 👯 I’m looking to collaborate with other content creators
+  - 🥅 2022 Goals: Contribute more to Open Source projects
   - 📍 Current location: Strasbourg, Fr
   - 💬 I'm ready for moving to another place
   - ⚡ Fun fact: love refactoring and find code sexy
@@ -52,5 +54,4 @@
 
 <a href="https://www.elmesmar.fr/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdhVKfy4Yzq0T-EmMWF26uQFLsrmX4MhKhm7l-dh_TO-r1Qo_ubPI0VzRdWnXrCL7OvQ&usqp=CAU" alt="linkedin" width="26px" align="left"/> </a>&nbsp;
 <span><img src="https://i.ebayimg.com/images/g/gbkAAOSw0J5gHpgK/s-l300.png" alt="intellij" width="26px" align="left"/></span>
-
 
