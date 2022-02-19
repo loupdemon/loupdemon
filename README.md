@@ -9,12 +9,12 @@
   - 📍 Current location: Strasbourg, Fr
   - 💬 I'm ready for moving to another place
   - ⚡ Fun fact: love refactoring and find code sexy
-  - i worked with companies: Quil's Keeper, Layer Data, Aircampus ...
+  - 💾 I worked with companies: Quil's Keeper, Layer Data, Aircampus ...
   - 📫 How to reach me : 
 
 <a href="https://github.com/loupdemon"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original-wordmark.svg" alt="github" width="26px"/></a>&nbsp;   <a href="https://www.linkedin.com/in/azzoug-aghiles/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="26px" align="left"/></a>&nbsp;
 
-#### Languages and tools I work with:
+#### 👀Languages and tools I work with:
 
 <span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></span>&nbsp;
 <span><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></span>&nbsp;
@@ -35,7 +35,7 @@
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/matlab/matlab-original.svg" alt="matlab" width="26px" align="left"/></span>&nbsp;
 
 
-### My tools
+### 🦖My tools
 
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="intellij" width="26px" align="left"/></span>&nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="pycharm" width="26px" align="left"/></span>&nbsp;
@@ -50,7 +50,7 @@
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="26px" align="left"/></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-plain.svg" alt="docker" width="26px" align="left"/></span>&nbsp;
 
-### My hobbies 
+### 🥐My hobbies 
 
 <a href="https://www.elmesmar.fr/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdhVKfy4Yzq0T-EmMWF26uQFLsrmX4MhKhm7l-dh_TO-r1Qo_ubPI0VzRdWnXrCL7OvQ&usqp=CAU" alt="linkedin" width="26px" align="left"/> </a>&nbsp;
 <span><img src="https://i.ebayimg.com/images/g/gbkAAOSw0J5gHpgK/s-l300.png" alt="intellij" width="26px" align="left"/></span>
