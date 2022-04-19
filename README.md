@@ -9,7 +9,7 @@
   - 📍 Current location: Strasbourg, Fr
   - 💬 I'm ready for moving to another place
   - ⚡ Fun fact: love refactoring and find code sexy
-  - 💾 I worked with companies: Quil's Keeper, Layer Data, Aircampus ...
+  - 💾 I worked with companies: Quil's Keeper, Layer Data, Aircampus, Aircampus...
   - 📫 How to reach me : 
 
 <a href="https://github.com/loupdemon"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original-wordmark.svg" alt="github" width="26px"/></a>&nbsp;   <a href="https://www.linkedin.com/in/azzoug-aghiles/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="26px" align="left"/></a>&nbsp;
