@@ -10,7 +10,14 @@
   - 💬 I'm ready for moving to another place
   - ⚡ Fun fact: love refactoring and find code sexy
   - 💾 I worked with companies:  Hager, Aircampus, Quil's Keeper, Layer Data , Sportyma, ...
-  - 📫 How to reach me : 
+  - 🧟‍♂️ Study : 
+    - BAC MAths 2013
+    - 1 st year Hydrocarbures and technical Science Institut national des Hydrocarbures Algeria 2014
+    - 2nd year oil mechanics (petroleum engineering) same institut 2015
+    - one year health and medical studies at Univeristy Paul Valery of Montpellier 2016
+    - 3 years License computer of science at Univesity of Strasbourg (2018-2021)
+    - Software Engineering in 2 year at School Epitech (master of science) (2021-2023)
+  - 📫 How to reach me :,
 
 <a href="https://github.com/loupdemon"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original-wordmark.svg" alt="github" width="26px"/></a>&nbsp;   <a href="https://www.linkedin.com/in/azzoug-aghiles/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="26px" align="left"/></a>&nbsp;
 
