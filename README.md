@@ -5,7 +5,7 @@
 ### About me
   - 🌱 I’m currently learning everything 🤣
   - 👯 I’m looking to collaborate with other content creators
-  - 🥅 2022 Goals: Contribute more to Open Source projects
+  - 🥅 2023 Goals: Contribute more to Open Source projects
   - 📍 Current location: Strasbourg, Fr
   - 💬 I'm ready for moving to another place
   - ⚡ Fun fact: love refactoring and find code sexy
@@ -19,7 +19,7 @@
     - Software Engineering in 2 year at School Epitech (master of science) (2021-2023)
   - 📫 How to reach me :,
 
-<a href="https://www.linkedin.com/in/azzoug-aghiles/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="26px" align="left"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/azzoug-aghiles/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="26px" align="left"/> visit my linkedin</a>&nbsp;
 -------------------------------------------------------------------------
 ### Some stats
 
