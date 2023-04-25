@@ -19,12 +19,8 @@
     - Software Engineering in 2 year at School Epitech (master of science) (2021-2023)
   - 📫 How to reach me :,
 
-<a href="https://github.com/loupdemon"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original-wordmark.svg" alt="github" width="26px"/></a>&nbsp;   <a href="https://www.linkedin.com/in/azzoug-aghiles/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="26px" align="left"/></a>&nbsp;
-
-### Welcome to my Github profile !
-
-Feel free to look up my repos :blush:
-
+<a href="https://www.linkedin.com/in/azzoug-aghiles/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="26px" align="left"/></a>&nbsp;
+-------------------------------------------------------------------------
 ### Some stats
 
 <a href="https://github.com/loupdemon">
