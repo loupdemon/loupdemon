@@ -24,9 +24,9 @@
 -------------------------------------------------------------------------
 ### Some stats
 
-<a href="https://github.com/loupdemon">
+<!-- a href="https://github.com/loupdemon">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=loupdemon&count_private=true&show_icons=true&hide=stars,issues&theme=tokyonight" />
-</a>
+</a-->
 <a href="https://github.com/loupdemon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loupdemon&layout=compact&hide=Vue,Java&theme=tokyonight&langs_count=6" />
 </a>
