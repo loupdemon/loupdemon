@@ -9,7 +9,7 @@
   - 📍 Current location: Strasbourg, Fr
   - 💬 I'm ready for moving to another place
   - ⚡ Fun fact: love refactoring and find code sexy
-  - 💾 I worked with companies:  Hager group, Pasha (ex Aircampus), Quil's Keeper, Layer Data , Sportyma, ...
+  - 💾 I worked with companies:  Electricité Strasbourg, Hager group,  Versusmind, Pasha (ex Aircampus), Quil's Keeper, Layer Data , Sportyma, ...
   - 🧟‍♂️ Study : 
     - BAC MAths 2013
     - 1 st year Hydrocarbures and technical Science Institut national des Hydrocarbures Algeria 2014
