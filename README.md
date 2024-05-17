@@ -19,7 +19,7 @@
     - Software Engineering in 2 year at School Epitech (master of science) (2021-2023)
   - 📫 How to reach me :,
 
-###<a href="https://www.linkedin.com/in/azzoug-aghiles/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="26px" align="left"/> visit my linkedin</a>&nbsp; 
+###<a href="https://www.linkedin.com/in/azzougaghilas/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="26px" align="left"/> visit my linkedin</a>&nbsp; 
 ###<a href="https://aghilas.fr/"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/945b0225337909.563440870421b.png" alt="portfolio" width="26px" align="left"/> visit my portfolio</a>&nbsp;
 -------------------------------------------------------------------------
 ### Some stats
