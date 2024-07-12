@@ -3,13 +3,14 @@
 ### I love traveling by bike with listening a piano and coding with inspiration ...I'm open to new challenges 
 
 ### About me
+  - 👩‍💻 Software Architect, Full-Stack Developer and Ui/Ux Designer
   - 🌱 I’m currently learning everything 🤣
   - 👯 I’m looking to collaborate with other content creators
-  - 🥅 2023 Goals: Contribute more to Open Source projects
-  - 📍 Current location: Strasbourg, Fr
+  - 🥅 2024 Goals: Contribute more to Open Source projects
+  - 📍  Current location: Paris, Fr
   - 💬 I'm ready for moving to another place
   - ⚡ Fun fact: love refactoring and find code sexy
-  - 💾 I worked with companies:  Electricité Strasbourg, Hager group,  Versusmind, Pasha (ex Aircampus), Quil's Keeper, Layer Data , Sportyma, ...
+  - 💾 I worked with companies:  Electricité Strasbourg, Hager group,  Versusmind, Pasha (ex Aircampus), Quil's Keeper, Layer Data , Sportyma, Knod...
   - 🧟‍♂️ Study : 
     - BAC MAths 2013
     - 1 st year Hydrocarbures and technical Science Institut national des Hydrocarbures Algeria 2014
@@ -17,6 +18,7 @@
     - one year health and medical studies at Univeristy Paul Valery of Montpellier 2016
     - 3 years License computer of science at Univesity of Strasbourg (2018-2021)
     - Software Engineering in 2 year at School Epitech (master of science) (2021-2023)
+    - Engineer IoT (2023)
   - 📫 How to reach me :,
 
 ###<a href="https://www.linkedin.com/in/azzougaghilas/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="26px" align="left"/> visit my linkedin</a>&nbsp; 
